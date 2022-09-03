@@ -149,10 +149,10 @@ NOTE 2: This is a great time to check the tests to see what it expects, versus w
         So, on this one test, the weight would be 4 pounds, and the age would be 1 years old. It's expecting your function to return a decimal number of 0.2
 */  
 
-function hungryDog(i,i){
-  return (i/i)
+function hungryDog(){
+ 
 }
-hungryDog(15,1);
+
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
@@ -194,10 +194,10 @@ Using the miles function below do the following:
 */
 
 function miles(i){
-  return multiply (i, 0.6214);
+  return multiply (i, .621371);
 
 }
-console.log(miles(5));
+console.log(miles(10));
 
 
 
